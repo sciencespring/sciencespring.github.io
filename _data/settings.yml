@@ -1,0 +1,23 @@
+title:  "ربيع العلم"
+tagline: "تعليم مستدام"
+description: "تعليم مستدام"
+author:
+  name: "Loay Amin"
+  twitter: loayamin
+
+# Change to true for Disqus comments
+disqus:
+  comments: false
+  disqus_shortname: 'loayamin'
+
+menu:
+
+- {name: 'عن ربيع العلم', file: 'about.html'}
+- {name: 'للتواصل', file: 'contact.html'}
+
+social:
+- {icon: 'twitter', link: 'https://twitter.com/paululele'}
+- {icon: 'facebook', link: 'https://www.facebook.com/'}
+
+
+# Available social icons are powered by Font Awesome, so you can use any icon that they offer
